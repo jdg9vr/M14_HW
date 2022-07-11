@@ -7,4 +7,4 @@ setup(name='M14_HW',
       author='Josh Gen',
       author_email='jdg9vr@virginia.edu',
       license='MIT',
-      packages=['M14_HW'])
+      packages=['M14_HW_mods'])
