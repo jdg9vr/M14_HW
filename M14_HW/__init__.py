@@ -1,2 +1,2 @@
 print("Package loaded!")
-from .M14_HW import booklover.py
+from .M14_HW import booklover
